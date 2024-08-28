@@ -2,7 +2,7 @@ from collections import defaultdict
 import sys
 
 input = sys.stdin.readline
-# https://www.acmicpc.net/problem/14503
+# https://www.acmicpc.net/problem/9251
 
 '''
 입력받은 infix 수식에 반복분을 통해 순서대로 접근하며 처리한다.
